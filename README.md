@@ -1,2 +1,1 @@
-# asiap-go
-App Store In-App Purchases
+# App Store In-App Purchases Primitives
